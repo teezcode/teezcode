@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎮 I’m a **Bastard'.**
+- 🎮 I’m a **Mobile Developer'.**
 
 - 🔭 I’m currently working on **Javascript, Typescript and "Something Huge" personal projects, so you might not be seeing my commits but have no doubts.**
 
@@ -22,7 +22,7 @@
 
 <p align="left"> 
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="postman" width="45" height="45/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a> 
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="typescript" width="48" height="48"/> </a> 
