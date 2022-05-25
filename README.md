@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎮 I’m a **Game Developer'.**
+- 🎮 I’m a **Bastard'.**
 
 - 🔭 I’m currently working on **Javascript, Typescript and "Something Huge" personal projects, so you might not be seeing my commits but have no doubts.**
 
