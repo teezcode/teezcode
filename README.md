@@ -14,21 +14,20 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
-- 📫 How to reach me **MarshalOnah@gmail.com**
+- 📫 How to reach me **Spaschal43@gmail.com**
 
 - ⚡ Catch-Phrase **Why So Serious?.**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i0.wp.com/clay-atlas.com/wp-content/uploads/2021/02/Flutter_LOGO.png?resize=930%2C375&ssl=1"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="48" height="48"/> </a> 
     <a href="https://unity.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/unity.png" alt="postman" width="45" height="45"/> </a>  
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="(https://docs.microsoft.com/)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="45" height="45"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
     
 </p>
 <br/>
@@ -42,7 +41,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/GhostGramm/github-readme-stats"><img alt="Marshal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GhostGramm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/GhostGramm/github-readme-stats"><img alt="Teezcode's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GhostGramm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/GhostGramm/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostGramm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
